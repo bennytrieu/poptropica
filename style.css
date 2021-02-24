@@ -1,0 +1,72 @@
+body {
+  background: linear-gradient(to bottom, #167cf9, #147cf9, #0e4b98);
+  color:white;
+}
+
+.ui.borderless.topmenu.menu {
+  background: #167cf9;
+  box-shadow: none;
+  border: none;
+}
+
+h3 {
+  color: white;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  padding: 14px 16px;
+  float: left;
+}
+
+.ui.header {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  padding: 14px 16px;
+  float: left;
+  color: #FEDB32;
+}
+
+.ui.borderless.bottommenu.menu {
+  background: #167cf9;
+  box-shadow: none;
+  border: none;
+}
+
+.right.fitted.ui.button {
+  background: #FEDB30;
+  color: #167cf9;
+  border-radius: 50px;
+  margin-right: 21px;
+  padding: 9px 33px;
+  font-size: 20px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  float: right;
+}
+
+/*.ui.list {*/
+/*  color: yellow;*/
+/*}*/
+
+.centered {
+  margin-left: 200px;
+  text-align: center;
+}
+
+.centered.with.color {
+  margin-left: 250px;
+  text-align: center;
+  color: #FEDB32;
+}
+
+.circle {
+  height: 48px;
+  background-color: #9fbcdf;
+  width: 48px;
+  display: inline-block;
+  border-radius: 50%;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+.adjustment {
+  margin-right: 200px;
+}
